@@ -6,7 +6,7 @@
     "b": "dotnet watch run",
     "init": "git init && git remote add origin https://github.com/djm2x/console_net.git",
     "cmt": "git add . && git commit -m \"commit\"",
-    "push": "git add . && git commit -m \"test json to list\" && git push -u origin main"
+    "push": "git add . && git commit -m \"test json to list\" && git push -u origin master"
   },
   "keywords": [],
   "author": "",
